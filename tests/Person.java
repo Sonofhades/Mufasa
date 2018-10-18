@@ -5,7 +5,8 @@ import org.junit.Test;
 public class Person {
 
 	@Test
-	public void test() {
+	public void test() 
+	{
 		fail("Not yet implemented");
 	}
 
